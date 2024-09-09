@@ -13,7 +13,7 @@ function Projects() {
       <div className={styles.projectContainer}>
         <ProjectCard
           src={viberr}
-          link="http://44.200.115.101:8080/diseasewebapp/"
+          link="http://3.237.64.46:8080/diseasewebapp/"
           h3="CareBioMed"
           p="Disease Prediction Webapp"
         />
